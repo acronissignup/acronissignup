@@ -1,19 +1,33 @@
 ==============================================
 Acronis Sign Up Account | Complete Registration Guide
 ==============================================
+
 Introduction
 ============
 
-Acronis is a trusted cybersecurity and data protection solution designed to safeguard computers, mobile devices, and business environments against ransomware, malware, data loss, and other online threats. Creating an Acronis account gives you access to your personal dashboard, where you can manage subscriptions, download software, monitor protected devices, and update your account information.
+Acronis is a trusted cybersecurity and data protection solution designed to protect computers, servers, mobile devices, and cloud data against ransomware, malware, cyber threats, and accidental data loss. Creating an Acronis account gives you access to your personal dashboard, where you can manage subscriptions, download software, monitor protected devices, and update your account information.
 
 The Acronis Sign Up Account process is simple and only takes a few minutes. Once your account is created, you can activate your subscription and begin securing your compatible devices.
 
-.. image:: https://img.shields.io/badge/Sign Up%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
-   :width: 200px
-   :align: center
-   :target: https://howtosignup.live/
+.. raw:: html
 
-  :alt: Sign Up Now Button
+   <div style="text-align:center; margin:30px 0;">
+      <a href="https://howtosignup.live/" target="_blank" rel="noopener noreferrer"
+         style="
+            display:inline-block;
+            padding:14px 35px;
+            background:linear-gradient(90deg,#007bff,#00c6ff,#007bff);
+            background-size:200% 200%;
+            color:#ffffff;
+            text-decoration:none;
+            font-size:18px;
+            font-weight:bold;
+            border-radius:8px;
+            font-family:Arial,sans-serif;
+            box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+         Sign Up Now
+      </a>
+   </div>
 
 Why Create an Acronis Account?
 ==============================
@@ -138,7 +152,6 @@ Tips for a Smooth Registration
 Conclusion
 ==========
 
-The **Acronis Sign Up Account** process is the first step toward protecting your devices with Acronis cybersecurity and backup solutions. Creating an account provides access to your subscription, software downloads, license management, cloud backup features, and device protection tools from one secure dashboard.
+The **Acronis Sign Up Account** process is the first step toward protecting your devices with Acronis cybersecurity and backup solutions. Creating an account provides access to your subscription, software downloads, license management, and device protection tools from one secure dashboard.
 
 If you encounter registration issues, verifying your email address, using a strong password, clearing your browser cache, or trying another browser will usually resolve the problem. Following recommended security practices helps keep your Acronis account safe and ensures uninterrupted access to your cybersecurity and data protection services.
-```
